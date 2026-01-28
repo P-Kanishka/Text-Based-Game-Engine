@@ -22,10 +22,6 @@ The system uses a strict **MVC (Model-View-Controller)** inspired pattern to han
 * **ScriptableObject Architecture:** Used for `Rooms`, `Items`, and `Actions` to ensure a data-driven design where game data is separate from logic.
 * **State Management:** Tracks inventory (`nounsInInventory`) and room states persistently.
 
-### 📸 Architecture Diagrams
-*(See the `/diagrams` folder for full UML)*
-![Class Diagram](./diagrams/Class%20Diagram2.jpg)
-
 ### 📄 Documentation
 The full engineering report, including detailed UML Class Diagrams and State Machines, is available here:
 [View Design Document PDF](./Text-Based-Game-Engine.pdf)
