@@ -3,7 +3,7 @@
 **📅 Project Date:** 2021
 **🛠️ Tech Stack:** C#, Unity 3D, .NET, OOP
 **📂 Status:** Archived 
-**Project By: Kanishka P and Hrishikesh A
+**Project By:** Kanishka P and Hrishikesh A
 
 ### 📖 Overview
 This project is a modular **Text-Based RPG Engine** built to explore advanced **Object-Oriented Programming (OOP)** patterns in game development. Unlike standard Unity games that rely on physics, this engine relies on string parsing, state management, and data structures.
